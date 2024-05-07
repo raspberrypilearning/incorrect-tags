@@ -1,6 +1,6 @@
-Carefully check the spelling of your HTML tags, attributes and classes. 
+Carefully check the spelling of your HTML tags, attributes, and classes. 
 
-Incorrect tags can mean that the tag text gets displayed on your web page instead of controlling the layout.
+Incorrect tags can mean that the tag text gets displayed on your webpage instead of controlling the layout.
 
 This example incorrectly uses 'image' instead of 'img'! `<img>` is the correct HTML tag. 
 
@@ -15,7 +15,7 @@ line_numbers: false
 
 --- /code ---
 
-It is also incorrect to have spaces in tags, this example is incorrect:
+It is also incorrect to have spaces in tags, so the example below is incorrect. 
 
 --- code ---
 ---
