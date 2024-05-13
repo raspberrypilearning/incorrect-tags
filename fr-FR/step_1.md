@@ -1,8 +1,8 @@
-Carefully check the spelling of your HTML tags, attributes, and classes.
+Vérifie bien l'orthographe de tes balises, attributs et classes HTML.
 
-Incorrect tags can mean that the tag text gets displayed on your webpage instead of controlling the layout.
+Des balises incorrectes peuvent signifier que le texte de la balise s'affiche sur ta page web au lieu de contrôler la mise en page.
 
-This example incorrectly uses 'image' instead of 'img'! `<img>` is the correct HTML tag.
+Cet exemple utilise incorrectement 'image' au lieu de 'img' ! `<img>` est la balise HTML correcte.
 
 ## --- code ---
 
@@ -17,7 +17,7 @@ line_numbers: false
 
 \--- /code ---
 
-It is also incorrect to have spaces in tags, so the example below is incorrect.
+Il est également incorrect d'avoir des espaces dans les balises, l'exemple ci-dessous est donc incorrect.
 
 ## --- code ---
 
