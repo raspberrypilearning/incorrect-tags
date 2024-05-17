@@ -1,8 +1,8 @@
-Carefully check the spelling of your HTML tags, attributes, and classes.
+Controleer zorgvuldig de spelling van je HTML tags, attributen en classes.
 
-Incorrect tags can mean that the tag text gets displayed on your webpage instead of controlling the layout.
+Onjuiste tags kunnen ertoe leiden dat de tagtekst op je webpagina wordt weergegeven in plaats van dat je de lay-out bepaalt.
 
-This example incorrectly uses 'image' instead of 'img'! `<img>` is the correct HTML tag.
+In dit voorbeeld wordt ten onrechte 'image' gebruikt in plaats van 'img'! `<img>` is de juiste HTML-tag.
 
 ## --- code ---
 
@@ -17,7 +17,7 @@ line_numbers: false
 
 \--- /code ---
 
-It is also incorrect to have spaces in tags, so the example below is incorrect.
+Het is ook onjuist om spaties in tags te gebruiken, dus het onderstaande voorbeeld is onjuist.
 
 ## --- code ---
 
